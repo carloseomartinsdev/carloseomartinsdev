@@ -34,37 +34,43 @@
 
 ## 📂 Projetos em Destaque
 
-### 🔍 Análise de Estabelecimentos de Alimentação
-Projeto desenvolvido para o MBA com foco em:
-- Limpeza e enriquecimento de dados
-- Geolocalização e filtragem inteligente por região
-- Visualização com Streamlit + folium + gráficos dinâmicos
+### 🔍 Plataforma de Análise de Estabelecimentos de Alimentação
+Projeto acadêmico desenvolvido no MBA de Ciência de Dados:
+- Tratamento e enriquecimento de dados de estabelecimentos alimentícios
+- Geolocalização por endereço com fallback inteligente
+- Visualização interativa com Streamlit, folium e gráficos dinâmicos
+- Filtros por tipo, avaliação, distância, tempo de espera e mais
+- Busca de endereços com fallback para bairros
+- Integração com ArcGIS e cálculo de distância em tempo real
+- Exibição de estabelecimentos em mapa interativo com folium
+- Otimizado para uso em filtros dinâmicos e interfaces de localização
 
-### 🌐 Sistema Web Modular com Controle de Sessão
-- Áreas segmentadas: público, cliente, revendedor, administrativo
-- Sessões dinâmicas com autenticação por cookies
-- Organização de páginas por permissões de acesso
-
-### 🗺️ Localização Inteligente com ArcGIS
-- Busca automática por endereço com fallback
-- Cálculo de distância entre usuários e estabelecimentos
-- Mapas interativos com marcações e filtros
+### 🌐 Sistema de Gestão e Vendas Web Modular
+Sistema completo de gestão com controle de acesso por setores:
+- Áreas segmentadas: cliente, revendedor, financeiro, administrativo, entre outras
+- Autenticação de usuários, sessões persistentes com cookies e controle de permissões
+- Interface organizada, segura e modular para facilitar a manutenção e expansão
+- Estrutura preparada para escalabilidade com módulos independentes
 
 ---
 
 ## 📊 Em Andamento
 
-- Sistema de rastreamento de tempo em páginas públicas
-- Dashboard com métricas de navegação e comportamento do usuário
-- Otimização de dados com pipelines modulares e reutilizáveis
+🔎 Monitoramento de Atividade em Páginas Públicas
+Implementação de rastreamento de sessões e comportamento de visitantes, incluindo tempo de permanência e interações com elementos da página.
 
+📈 Dashboard Analítico de Navegação
+Painel interativo com métricas de acesso, tempo médio por página, páginas mais visitadas, origem dos acessos e análise de comportamento do usuário.
+
+🔄 Otimização de Pipeline de Dados
+Estruturação de fluxos de tratamento e enriquecimento de dados com foco em reusabilidade, modularidade e performance para análise contínua.
 ---
 
 ## 📫 Contato
 
-- 💼 [LinkedIn (em atualização)](https://www.linkedin.com/in/SEU-LINK-AQUI)
-- 💻 [Portfólio / Site pessoal (opcional)](https://SEU-SITE-AQUI)
-- 📧 Email: seuemail@dominio.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/carloseomartins)
+- 💻 [Portfólio / Site pessoal]()
+- 📧 Email: carloseomartinsdev@outlook.com
 
 ---
 
