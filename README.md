@@ -62,8 +62,9 @@ Implementação de rastreamento de sessões e comportamento de visitantes, inclu
 📈 Dashboard Analítico de Navegação
 Painel interativo com métricas de acesso, tempo médio por página, páginas mais visitadas, origem dos acessos e análise de comportamento do usuário.
 
-🔄 Otimização de Pipeline de Dados
+🔄  Otimização de Pipeline de Dados
 Estruturação de fluxos de tratamento e enriquecimento de dados com foco em reusabilidade, modularidade e performance para análise contínua.
+
 ---
 
 ## 📫 Contato
@@ -74,4 +75,4 @@ Estruturação de fluxos de tratamento e enriquecimento de dados com foco em reu
 
 ---
 
-<p align="center"><em>"Desenvolver é transformar ideias em soluções."</em></p>
+<p align="center"><em>"Quando bem escrita, a tecnologia deixa de ser ferramenta — torna-se expressão."</em></p>
